@@ -1,2 +1,2 @@
 # Application-d-enseignement---Java
-Développement d'une application fonctionnelle avec rôles distincts pour enseignants et étudiants. Les enseignants créent des quiz, notent les réponses et consultent les statistiques. Les étudiants choisissent des matières, passent des quiz et revoient leurs réponses après validation.
+Développement d'une application entièrement fonctionnelle avec des rôles séparés pour les enseignants et les étudiants. Les enseignants peuvent créer des quiz avec plusieurs formats de questions et réponses, noter les réponses des étudiants et consulter des statistiques de performance. Les étudiants peuvent sélectionner des matières, passer des quiz et revoir leurs réponses après leur achèvement.
